@@ -1,4 +1,4 @@
-## Leia-me: Buscador de Atletas Olímpicos
+## Leia-me: Buscador de Atletas Olímpicos - Imersão Dev com o Google Gemini
 
 **Olá, futuro campeão da programação!**
 
